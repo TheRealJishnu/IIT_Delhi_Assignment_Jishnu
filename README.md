@@ -12,6 +12,8 @@ Claude, ChatGPT and Gemini have been used on some of the parts of the coding.
 - More time and epochs of training
 - Shared subword Embedding
 - Hyperparameter tune on Increased embedding size
+# Collaboration
+Due to the lack of computational resources, the project is done in collaboration with my classmate [Saloni Kushwaha](https://github.com/Saloni0000)
 
 # P.S.- 
 The HuggingFace token used in the code is a dummy. It does not work. So avoid trying to use it.
